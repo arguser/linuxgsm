@@ -10,7 +10,7 @@ Docker version of [LinuxGSM\_](https://github.com/GameServerManagers/LinuxGSM).
 
 This image must not be run directly.
 
-It's a partial image and must be used by a Dockerfile `FROM ghcr.io/cyrale/linuxgsm`. See [cyrale/project-zomboid](https://github.com/cyrale/project-zomboid) for example.
+It's a partial image and must be used by a Dockerfile `FROM arguser/linuxgsm`. See [arguser/project-zomboid](https://github.com/arguser/project-zomboid) for example.
 
 ## Variables
 
